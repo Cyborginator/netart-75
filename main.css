@@ -16,6 +16,11 @@ h1 {
   color: orange;
 }
 
+h2 {
+  padding: 20px 0px 10px 0px;
+  color: white;
+}
+
 /* heading text */
 h3 {
   padding: 20px 0px 10px 0px;
