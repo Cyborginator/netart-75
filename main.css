@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans');
 
 body {
+  background-color: blue;
   margin: 30px auto;
   max-width: 1000px;
   font-family:'Work Sans', sans-serif;
@@ -8,7 +9,6 @@ body {
   padding: 30px 20px;
   text-align: center;
   align-content: center;
-  background-color: blue;
 }
 
 /* heading text */
